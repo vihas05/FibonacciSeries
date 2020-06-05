@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[2]:
 
 
 
@@ -19,17 +16,7 @@ while i<=n:
     i+=1
     
     
-    
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
+   
 
 
 
