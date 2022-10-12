@@ -1,2 +1,2 @@
 # FibonacciSeries
-python program to print fibonacci sequence using while loop.
+Python program to print fibonacci sequence using while loop.
